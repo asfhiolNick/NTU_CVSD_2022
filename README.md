@@ -23,7 +23,7 @@ This is a project related to Professor Yang Jia-Xiang's "Computer-Aided VLSI Sys
 ## Contents
 - **2021_{final/hw1/hw2/hw3/hw4/hw5}**: These contents were forked and inherited from last year's project.
 - **2022_{final/hw1/hw2/hw3/hw4/hw5}**: This section represents my work output during the course from September to December 2022.
-- **final project**: This is a class competition project named "Polar Decoder". We referenced and implemented the dissertation "Algorithm and VLSI Architecture for Polar Codes Decoder" by Yuan Bo, Ph.D., University of Minnesota, 2015.
+- **final project**: This is a class competition project named "Polar Decoder". We referenced and implemented the dissertation "Algorithm and VLSI Architecture for Polar Codes Decoder" by Dr. Yuan Bo, University of Minnesota, 2015.
 
 ## Contributions
 Contributions to this project are welcome. You can participate in improving this project by submitting Pull Requests or opening Issues.
